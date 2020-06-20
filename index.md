@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Painel para análise de cotações de automóveis por UF, Bônus, Família e Seguradora 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
