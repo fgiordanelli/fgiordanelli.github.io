@@ -1,8 +1,7 @@
 title: Fabrício Giordanelli # your name (or website title) here
 logo: "/images/Fabrício.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  Fabrício Giordanelli é formado em Ciências Atuariais pela Universidade do Estado do Rio de Janeiro. Trabalhou em quatro grandes seguradoras na área estatística e na área atuarial. Desenvolveu painéis e relatórios tanto em R (utlizando markdown e shiny), Python, VBA e SAS/SQL para prever e dectetar riscos e padrões comportamentais. Trabalhou na Mongeral Aegon na área atuarial, na generali na área de precificação, na SulAmérica como cientista de dados pare prevenção à fraude e atualmente trabalha na Azul seguros na com subscrição para prever/detectar riscos ruins e padrões com modelos estatísticos.  
+  Fabrício Giordanelli é formado em Ciências Atuariais. Trabalhou em quatro grandes seguradoras na área estatística e na área atuarial. Desenvolveu painéis e relatórios tanto em R (utlizando markdown e shiny), Python, VBA e SAS/SQL para prever e dectetar riscos e padrões comportamentais.Trabalhou na Generali na área de precificação, na SulAmérica como cientista de dados com foco em prevenção à fraude e atualmente trabalha na Azul seguros com subscrição para prever/detectar riscos ruins e padrões com machine learning.  
   <br><br>
   Second description 
   <br><br>
