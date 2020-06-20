@@ -2,5 +2,5 @@ title: Fabrício Giordanelli # your name (or website title) here
 logo: "/images/Fabrício.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Fabrício Giordanelli é formado em Ciências Atuariais. Trabalhou em quatro grandes seguradoras na área estatística com modelos de precificação e elasticidade, machine learning aplicada à fraude e subscrição. Desenvolveu painéis e relatórios tanto em R (utlizando markdown e shiny), Python, VBA e SAS/SQL para prever e dectetar riscos e padrões comportamentais.
- 
+ <br><br>
 theme: jekyll-theme-minimal
